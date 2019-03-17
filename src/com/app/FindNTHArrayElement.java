@@ -15,6 +15,6 @@ public class FindNTHArrayElement {
 			System.out.print(a +", ");
 		}
 		System.out.println();
-		System.out.println(arr[arr.length]);		
+		System.out.println(arr[arr.length-2]);		
 	}
 }
